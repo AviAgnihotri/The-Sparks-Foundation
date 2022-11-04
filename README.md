@@ -1,1 +1,1 @@
-# These repositories are for the tasks of Internship work at The Sparks Foundation.
+# These repositoriy is for the tasks for Internship work at The Sparks Foundation.
